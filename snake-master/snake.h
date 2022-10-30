@@ -33,7 +33,7 @@
 #define START_ROW ((MAXROW + 1) / 2)
 
 #define DEFAULT_DELAY 200000
-#define DEFAULT_KEYS  {'o', 'p', 'a', 'z', 'f', 'j', 'q'}
+#define DEFAULT_KEYS  {'w', 's', 'a', 'p', 'a', 'd', 'q'}
 
 typedef enum { LEFT=0, RIGHT, UP, DOWN, LEFT_TURN, RIGHT_TURN, QUIT, NUM_KEYS } direction_t;
 
